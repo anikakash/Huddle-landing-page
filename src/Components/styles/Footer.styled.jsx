@@ -24,5 +24,8 @@ export const StyledFooter = styled.footer`
         p{
             text-align: center;
         }
+        img{
+            margin: 0 auto;
+        }
     }
 `
